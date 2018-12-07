@@ -1,4 +1,4 @@
-*(For readability purposes, the [.md file](https://sbondoc.blogspot.com/2018/11/doing-laundry.html) for this post is available on my github page.)*
+*(For readability purposes, the [.md file](https://github.com/sBondoc/econ_live_2018_fall/blob/master/files/post.md) for this post is available on my GitHub page.)*
 
 # Introduction #
 
@@ -123,7 +123,7 @@ main()
 
 ```
 
-(Sorry about the lack of color in the code; it appears Tumblr does not support Markdown syntax highlighting in code blocks.)
+(If you are viewing this on Tumblr, sorry about the lack of color in the code; it appears Tumblr does not support Markdown syntax highlighting in code blocks. It might help if you view the [.md file](https://github.com/sBondoc/econ_live_2018_fall/blob/master/files/post.md) on my GitHub page.)
 
 # Explanation #
 
