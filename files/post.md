@@ -150,3 +150,9 @@ It goes without saying that procrastination is bad. Ideally, you would never hav
 Unfortunately for some, time management isn't exacly a honed skill, leading to situations in which one is backed into a corner faced with a tough decision between undesirable choices. This gets stripped down into an economic decisionmaking problem in its most basic form, built around the fact that people face trade-offs, one of the 10 principles of economics.
 
 I made this code just to illustrate my thought process and how I weigh opportunity costs and trade-offs when it comes to doing my homework. I really hope nobody actually copy/pastes the code into IDLE and uses it to determine how hard they should procrastinate. They'll end up like me, frantically typing an econ assignment up on Tumblr trying to get it in on time for the 5:00 PM due date.
+
+* * *
+
+*Samuel Bondoc*
+
+*ID# 35261931*
